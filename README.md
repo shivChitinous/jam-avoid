@@ -2,8 +2,8 @@
 Repository for visualizing the Jamming Avoidance Response in Weakly Electric Fish.
 
 **Notebooks**
-1. `JAR_2D.ipynb` contains implementation of multipole model by Chen et al. (2005)
-2. `JAR_1D.ipynb` contains code to generate visualizations of amplitude modulated sinusoids, electroreceptor coding properties and the JAR algorithm.
+1. `JAR_2D.ipynb`: implementation of multipole model by Chen et al. (2005)
+2. `JAR_1D.ipynb`: code to generate visualizations of amplitude modulated sinusoids, electroreceptor coding properties and the JAR algorithm.
 
 Figures part of review submitted for BIO491.
 
