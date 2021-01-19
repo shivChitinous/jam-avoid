@@ -1,5 +1,5 @@
 # jam-avoid
-Repository for visualizing the Jamming Avoidance Response in Weakly Electric Fish. Figures and videos generated as part of assignment submitted for BIO491: Literature Review.
+Repository for visualising the Jamming Avoidance Response in Weakly Electric Fish. Figures and videos generated as part of assignment submitted for BIO491: Literature Review.
 
 **Notebooks**
 1. `JAR_2D.ipynb`: implementation of multipole model by Chen et al. (2005)
